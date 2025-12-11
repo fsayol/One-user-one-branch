@@ -23,6 +23,7 @@
 
 # images
 *.png
+*.jpg
 
 # produced vignettes
 vignettes/*.html
